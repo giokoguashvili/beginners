@@ -17,7 +17,10 @@ Roslyn
 
 variable
 variable declaration
-variable initialization
+variable assigment
 assignment operator
 variable type
 variable name
+variable initialization
+
+case sensetive
