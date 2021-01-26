@@ -26,3 +26,11 @@ variable initialization
 case sensetive
 
 debug
+
+operators:
+  math:
+    +, -, %, /, *
+  assignment:
+    =
+  logic:
+  
