@@ -15,22 +15,29 @@ Compiler
 Algorithm
 Roslyn
 
-variable
-variable declaration
-variable assigment
-assignment operator
-variable type
-variable name
-variable initialization
+Variable
+Variable Declaration
+Variable Assigment
+Assignment Operator
+Variable Type
+Variable Name
+Variable Initialization
+Literals 
+Operators 
+    Arithmetic Operators
+      +, -, *, /, %
+    Assignment Operator
+      ...
+    Relational and Logical Operators
+      ...
+Types
+  Numbers
+    int, bool ...
+  Text
+  
+  
+Code Block
+Case sensetive
+Debug
 
-case sensetive
-
-debug
-
-operators:
-  math:
-    +, -, %, /, *
-  assignment:
-    =
-  logic:
   
