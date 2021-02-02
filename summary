@@ -23,18 +23,29 @@ Variable Type
 Variable Name
 Variable Initialization
 Literals 
+Value
 Operators 
     Arithmetic Operators
       +, -, *, /, %
     Assignment Operator
-      ...
-    Relational and Logical Operators
-      ...
+      =
+    Relational 
+        <, >, !=, ==
+    Logical Operator
+        &&, ||
+
+Expression
+    Expr<int>
+    Expr<bool>
+ 
 Types
   Numbers
-    int, bool ...
+    int - { -x, -1, 0, 1, 2, +x }
   Text
   
+  Boolean
+    bool - { true, false }
+   
 Code Block
 Case Sensitive
 Debug
