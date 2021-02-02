@@ -1,0 +1,90 @@
+/*
+  int  - {-x, -1, 0, 1, 3, ... +x}  integer
+  bool - { true, false }          boolean
+*/
+{
+  int a;
+  a = 7;            // value 01011
+  a = (2 + 1) * 3; 
+
+  bool b;
+  b = true;  // 1
+  b = false; // 0
+
+  // &&, ||
+  b = true && false;
+  b = true && true;
+
+  b = true || false;
+  b = (true && false) || true; // true
+}
+
+{
+  int a;
+  int b;
+  a = 2;
+  b = 3;
+  int sum = a + b;
+  
+  bool A;
+  bool B;
+  A = true;
+  B = false;
+  
+  bool result;
+  result = (A && B) || true;  // ture
+  result = (A && B);          // false
+}
+
+{
+  int a;
+  bool b;
+  
+  a = 8;
+  b = false;
+  
+  a = b; // error
+  a = true && true; // 1 + 1 = 2 - ? t, f, 
+}
+
+{
+  int a;
+  bool b;
+  
+  b = 2 + 7;        // error
+  b = true && false;// ok
+  
+  // expr<bool>
+  // expr<int>
+  
+  /*
+    int c;
+    c = expr<int>;
+    bool b1;
+    b1 = expr<bool>;
+  */
+}
+
+// bool       - { &&, || } 
+// bool, int  - { ==, != }
+// int        - { +, -, %, /, *, <, > }
+
+{
+  int a;
+  int b;
+  
+  a = 17;
+  b = 9;
+  
+  bool r;
+  r = a > b; // true, false
+  r = (a > b) && true; // true;
+ 
+  r = 1 == 1; // true
+  r = a == b; // false
+  r = a != b; // true
+  
+  int bl;
+  bl = true == false; // false
+  //bl = false > ture;  // false
+}
