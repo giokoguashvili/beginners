@@ -1,1 +1,25 @@
+{
 
+  bool b;
+  b = true;
+
+  while (b) 
+  {
+    <stat>;
+    <stat>;
+    
+    if ()
+    {
+      b = false;
+    }
+  }
+
+  if ()
+  {
+    <stat>;
+  }
+  else 
+  {
+  }
+  
+}
