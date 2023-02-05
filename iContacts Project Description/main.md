@@ -38,7 +38,7 @@
 ```
 Title: Person Contacts - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
@@ -58,7 +58,7 @@ Please Enter Action:
 ```
 Title: New Person Contact - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
@@ -81,7 +81,7 @@ Enter Email			: danny.greenfelder@gmail.com
 ```
 Title: Person Contacts - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
@@ -101,7 +101,7 @@ Please Enter Action:
 ```
 Title: Edit Person Contacts - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
@@ -122,7 +122,7 @@ Please Enter New Phone Number	(+1-979-338-1708)	: +995 555 123 321
 ```
 Title: Edit Person Contacts - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
@@ -142,7 +142,7 @@ Please Enter Action:
 ```
 Title: Person Contacts - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
@@ -161,7 +161,7 @@ Please Enter Id     : 1
 ```
 Title: Person View - iContacts
 
-Actions
+Actions:
     Edit    - (E)
     Remove  - (R)
     Close   - (C)
@@ -187,7 +187,7 @@ Please Enter Action: R
 ```
 Title: Person Contacts - iContacts
 
-Actions
+Actions:
 	New 	- (N)
 	View 	- (V)
 	Edit	- (E)
