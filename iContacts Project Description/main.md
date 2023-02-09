@@ -1,5 +1,15 @@
 # iContacts Console Application
 
+## CRUD
+```
+CRUD		
+- Create
+- Read
+- Update
+- Delete
+
+```
+
 ## Features
 - Phase 1
     - As User I could be able Create New Contact with properties
@@ -18,6 +28,7 @@
 
 ## iContacts Console App Stages
 - Write CRUD operations in Memory as Console Application
+- Add Console UI
 - Store Records in TXT File (CSV)
 - Store Records as JSON
 - Store Records in Database Table (use ADO.NET)
