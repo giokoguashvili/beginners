@@ -1,0 +1,357 @@
+{
+    1. ორი რიცხვის ჯამი
+    2. სამი რიცხვის ჯამი
+    3. მოცემულია რიცხვი. 
+    ავღწეროთ 3 ცვლადი
+    პირველს მივანიჭოთ მოცემული ციფრი
+    მეორეს ცვლადს მივანიჭოთ 3-ით მეტი ვიდრე პირველ ცვლადს
+    მესამე ცვლადში მოვათავსოთ 1-ლი და მე-2 ცვლადის ჯამი
+}
+
+9. Задача №2949. Обмен значений - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2949#1
+1. Задача №2937. Следующее и предыдущее - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2937#1
+
+მოცემულია მთელი რიცხვი a. გამოვაცხადოთ ცვლადი sum 
+და მოვათავსოთ მასში მოცემული a რიცხვის შემდეგი და წინა რიცხვების ჯამი.
+
+Input Data
+პროგრამა იღებს ერთ მთელ რიცხვს a;
+
+Output Data
+აღვწეროთ ცვლადი sum და მოვათავსოთ შედეგი
+
+მაგალითები:
+
+Input
+    7
+Output
+    14
+
+{
+    1. მოცემულია 2 ცვლადი. გავუცვალოთ ადგილები. (არ გამოვიყენოთ დამატებითი ცვლადი)
+    2. ვიპოვოთ მარკუთხედის ფართობი. მოცემულია 2 მთელი დადებითი რიცხვი a და b. 
+    ავღწეროთ ცვლადი სახელად area და მივანიჭოთ მართკუთხედის ფართობი.
+    3. პირობა იგივეა რაც მეორე ამოცანაში ოღონდ ვიპოვოთ პერიმეტრი
+    4. ფუნთუშა ღირს a ლარი და b თეთრი. 
+    გამოთვალეთ რამდენი თეთრი არის გადასახდელი n რაოდენობის ფუნთუშაში.
+    პროგრამაში მოცემულია სამი მთელი რიცხვი: a, b, n შესაბამისად
+    დავთვალოთ რამდენი თეთრი უნდა გადავიხადოთ.
+    Examples:
+    Input           |   Result
+        10 15 2     |   2030
+    Input           |   Result
+        2 50 4      |   1000
+}
+
+
+
+
+
+{
+    
+
+
+}
+
+
+
+
+
+2. Задача №2938. Дележ яблок - 1 - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2938#1
+
+N მოსწავლე იყოფს K ვაშლს თანაბრად. მორჩენილი ვაშლები რჩება ისევ კალათაში.
+რამდენი ვაშლი შეხვდება თითოეულ მოსწავლეს?
+
+Input Data
+პროგრამა იღებს ორ მთელ რიცხვს N და K
+
+Output Data
+აღვწეროთ ცვლადი reusult და მოვათავსოთ ვაშლების რაოდენოა
+
+მაგალითები:
+
+Input
+    3
+    14
+Output
+    4
+
+3. Задача №2939. Дележ яблок - 2 - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2939#1
+
+N მოსწავლე იყოფს K ვაშლს თანაბრად. მორჩენილი ვაშლები რჩება ისევ კალათაში.
+რამდენი ვაშლი დარჩება კალათაში?
+
+Input Data
+პროგრამა იღებს ორ მთელ რიცხვს N და K
+
+Output Data
+აღვწეროთ ცვლადი reusult და მოვათავსოთ ვაშლების რაოდენოა
+
+მაგალითები:
+
+Input
+    3
+    14
+Output
+    2
+
+10. Задача №2951. Стоимость покупки                 - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2951#1
+11. Задача №2953. Автопробег                        - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2953#1
+
+
+
+
+{ 
+    1. მოცემულია რიცხვი. ავღწეროთ ცვლადი result. 
+    თუ მოცემული რიცხვი ლუწია აღწერილი ცვლადში ჩავწეროთ 0 თუ 
+    არა და 1
+    8. Задача №2945. Следующее четное                   - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2945#1
+    მოცემულია მთელი რიცხვი n. result ცვლადში მოვათავსოთ მოცემული რიცხვის შემდეგ მდგომი ლუწი რიცხვი
+    
+    4. Задача №2941. Последняя цифра                    - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2941#1
+    5. Задача №2942. Число десятков двузначного числа   - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2942#1
+    6. Задача №2943. Число десятков                     - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2943#1
+    7. Задача №2944. Сумма цифр                         - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2944#1
+    
+    2. მოცემულია ოთხნიშნა მთელი რიცხვი. დავთვალოთ მისი ლუწი ციფრების ჯამი.2
+}
+
+{
+    12. Задача №2954. Дележ яблок - 3                   - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2954#1
+
+    3. N მოსწავლე იყოფს K ვაშლს თანაბრად, ისე რომ ვაშლების რაოდენობა რომელიც 2 მოსწავლეს შეხვდა 1-ზე მეტით არ განსხვავდებოდეს.
+    Input Data
+        პროგრამა იღებს ორ მთელ რიცხვს N და K
+    Output Data
+        აღვწეროთ ცვლადი result და მოვათავსოთ მოსწავლეების რაოდენობა რომლებსაც შეხვდათ ნაკლები ვაშლი ვიდრე მათ კლასელებს.
+    მაგალითები:
+    Input   Output
+    7 30    5
+    Input   Output
+    7 28    0
+    
+    (n - k % n) % n
+    (7 - 30 % 7) % 7 = (7 - 2) % 7 = 5 % 7 = 5
+    (7 - 7 % 7) % 7  = (7 - 0) % 7 = 7 % 7 = 0 
+}
+
+
+
+{
+    16. Задача №2957. Проверьте делимость               - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2957#1
+
+    4. მოცემულია 2 ნატურალური რიცხვი n და m. თუ ერთი იყოფა მეორეზე მთელად გამოვიტანოთ 1 თუ არა და ნებისმიერი სხვა რიცხვი
+    Input Data
+        მოცემულია ორი ნატურალური რიცხვი n და m.
+    Output Data
+        მოვათავსოთ result ცვლადში ამოცანის შედეგი
+    მაგალითები:
+    Input   Output
+    2 8     1
+    Input   Output
+    8 2     1
+
+    n m
+    1 - (n % m * m % n)
+    2 8 = 1 - (2 % 8 * 8 % 2) = 1 - (6 * 0) =  1
+    8 2 = 1 - (8 % 2 * 2 % 8) = 1 - (0 * 6) =  1
+    7 2 = 1 - (7 % 2 * 2 % 7) = 1 - (1 * 2) = -1
+}
+
+
+{
+    17. Задача №2958. Максимум                          - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2958#1
+    მოცემულია 2 რიცხვი ვიპოვოთ მაქსიმუმი
+    abs = a * (((a - 1) % 2) + (a % 2))
+
+    abs
+    a
+
+    a - 2 * a
+}
+
+
+{
+
+    15. Задача №2956. Симметричное число                - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2956#1
+
+    2002
+
+    abs(a - d) + abs(b - c)
+
+}
+
+
+14. Задача №2955. Улитка                            - https://old.informatics.msk.ru/mod/statements/view3.php?id=2296&chapterid=2955#1
+15. Задача №266. Координатные четверти              - https://old.informatics.msk.ru/mod/statements/view3.php?id=276&chapterid=266
+
+//////////////////////////////////////////////////////////
+
+1. Overview
+    Computer Structure
+    CPU
+    GPU
+    RAM
+    Chipset, 
+    HDD, 
+    SSD
+
+    Function
+    Human & Computer as a Function
+    Logic, Logical Gates
+    Transitor  
+
+    Programming Language
+    Machine Code
+    Compiler
+    Algorithm
+    Roslyn
+
+    Code, Script
+    Data types,
+    Compiler, Algorithm, Runtime
+
+
+    https://www.w3schools.com/cs/cs_variables.asp
+    https://www.tutorialspoint.com/csharp/csharp_variables.htm
+
+    <data type> <variable name> = <value>;
+
+    Statment
+    Data Type
+    Variables
+    Scope and Lifetime
+    Variable Declaration
+    Variable Initialization
+    Variable Assigment
+    Literals 
+    Operators 
+        Arithmetic Operators
+            +, -, /, %
+        Assignment Operator
+        Relational and Logical Operators
+
+    Code Block
+    Expression
+    Debug
+
+
+    variable
+    int, arithmetic operators
+    bool, relational operators, logical operators
+    if 
+    while
+    array
+    for
+    function
+    array of arrays (matrix)
+    char, string, converting
+    recursion
+
+
+8 + 9;
+
+{
+
+    // comment
+    /* 
+        comments
+    */
+    {`
+        int a;
+        a = 2 + 7;
+    }
+
+    {
+        int a;
+        a = 9;
+    }
+
+    {
+        int a;
+        a = 9;
+        int b;
+        b = 10;
+        int sum;
+        sum = a + b;
+    }
+    
+    {
+        int x;
+        x = 9;
+        x = x + 1;
+    }
+
+    {
+        int a;
+        a = 8;
+        int b;
+        b = a;
+    }
+}
+
+//if 
+Задача №292. Максимум из двух чисел     - https://old.informatics.msk.ru/mod/statements/view.php?id=276
+Задача №2959. Знак числа                - https://old.informatics.msk.ru/mod/statements/view3.php?id=276&chapterid=2959
+Задача №293. Какое из чисел больше?     - https://old.informatics.msk.ru/mod/statements/view3.php?id=276&chapterid=293
+
+Задача №294. Максимум из трех           - https://old.informatics.msk.ru/mod/statements/view3.php?id=276&chapterid=294
+/*
+    3. მოცემულია 3 რიცხვი. ვიპოვოთ მაქსიმუმი.
+    4. ვერტიკალურად დასობილ h მეტრიან ჯოხზე მიცოცავს ლოკოკინა. ერთ დღეში აცოცდება a მეტრით და ღამით ისევ ჩამოცოცდება  b მეტრით. რომელ დღეს აცოცდება ლოკოკინა ჯოხის ბოლოზე?
+    მოცემულია სამი ნატურალური რიცხვი h, a, b. გარანტირებულია რომ a > b.
+    result ცვლადში მოვათავსოთ ამოცანის პასუხი.
+    Input  | Output
+    10 3 2 | 8
+    20 7 3 | 5
+    5. კვადრატის ფორმის დაფაზე ყოველ კიდის უჯრაში მოათავსეს თითო მონეტა. შეიძლება თუ არა აღმოჩნდეს რომ ზუსტად k რაოდენობის მონეტა იყო მოთავსებული დაფაზე?
+    მაგალითად თუ დაფა 2x2 მაშინ კიდე უჯრებში მოთავსებული მონეტების რაოდენობაა 4
+    თუ 6x6 მაშინ 20 მონეტა
+    მოცემულია ნატურალური რიცხვი k
+    result ცვლადში მოვათავსოთ true თუ არსებობს ისეთი ზომის კვადრატული დაფა რომელზეც კიდე უჯრებში მოთავსდება ზუსტად k რაოდენობის მონეტა, თუ არ არსებობს false
+    Input | Output
+    20    | true
+    13    | false
+*/
+
+/*
+    1. მოცემულია ორი წერთილის კოორდინატები სიბრტყეზე. დავადგინოთ ორივე წერტილი არის თუ არა ერთი და იგივე სააკორდინატო მეოთხედში.
+    მოცემულია 4 მთელი რიცხვი: x1, y1, x2, y2
+    result ცვლადში მოვათავსოთ true დადებითი პასუხის შემთხვევაში და false უარყოფითი
+    Input   | Output
+    3 3 5 1 | true
+    2. მოცემულია 3 ნატურალური რიცხვი a, b, c. დავადგინოთ არსებუბოს თუ არა სამკუთხედი მსგავსი გვერდებით.
+    Input | Output
+    3 4 5 | true
+    3. მოცემულია 3 ცვლადი. a, b c. რომლებშიც არის მოთავსებული მთელი რიცხვები.
+    დავწეროთ კოდი რომელიც ამ ჩვლადებს გაუცვლის მნიშვნელობებს ისე რომ ბოლოს აღმოჩნდეს ცვლადებში ციფრები ზრდადობით დალაგებული.
+    Input | Output
+    a = 7 | a = 3
+    b = 3 | b = 4
+    c = 4 | c = 7
+*/
+
+while
+/*
+    Задача №113. Список квадратов       - https://old.informatics.msk.ru/mod/statements/view3.php?id=249&chapterid=113
+    Задача №3058. Минимальный делитель  - https://old.informatics.msk.ru/mod/statements/view3.php?id=249&chapterid=3058
+*/
+///////////////////////////
+lnooob16@gmail.com
+Jubikokoguashvili97@gmail.com
+beknadiradze@gmail.com
+diana.shonia.1@btu.edu.ge
+giorgicabadze2017@gmail.com
+osefashviligvanca@gmail.com
+ikaakereselidze@gmail.com
+baksidobson@gmail.com
+iaganashvililevan@gmail.com
+l_asatiani3@cu.edu.ge
+sabakoguashvili16@gmail.com
+sabakapanadz5@gmail.com
+qitu.oniani1@gmail.com
+
+////////////////////////
+////////////////////////
+////////////////////////
+////////////////////////
